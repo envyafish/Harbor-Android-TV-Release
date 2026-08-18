@@ -4,6 +4,8 @@
 
 Harbor TV 给客厅用：全屏浏览媒体库、继续观看，用遥控器完成全部操作，并通过内嵌 **Media3 / ExoPlayer** 播放。可选接入你自行配置的、兼容 danmu_api 协议的弹幕源（只看不发）。
 
+桌面端见 [Harbor](https://github.com/envyafish/Harbor)。
+
 [TG 交流群](https://t.me/HarborRelease)
 
 ---
@@ -14,7 +16,7 @@ Harbor TV 给客厅用：全屏浏览媒体库、继续观看，用遥控器完�
 
 <img src="docs/shop.png" alt="店铺二维码" width="220" />
 
-电视端与桌面端共用同一套 Harbor Pro 许可证。激活后即可登录你自己的媒体服务器。
+电视端与[桌面端](https://github.com/envyafish/Harbor)共用同一套 Harbor Pro 许可证。激活后即可登录你自己的媒体服务器。
 
 ---
 
