@@ -1,7 +1,5 @@
 # Harbor TV（港湾电视版）
 
-**中文** | [English](README.en.md)
-
 面向 [Emby](https://emby.media/) / [Jellyfin](https://jellyfin.org/) 的 **Android TV / Google TV** 客户端。
 
 Harbor TV 给客厅用：全屏浏览媒体库、继续观看，用遥控器完成全部操作，并通过内嵌 **Media3 / ExoPlayer** 播放。可选接入你自行配置的、兼容 danmu_api 协议的弹幕源（只看不发）。
