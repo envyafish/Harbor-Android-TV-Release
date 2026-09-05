@@ -10,7 +10,7 @@
 [![桌面版](https://img.shields.io/github/v/release/envyafish/Harbor?style=flat-square&label=desktop)](https://github.com/envyafish/Harbor/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/envyafish/Harbor-Android-TV-Release/total?style=flat-square)](https://github.com/envyafish/Harbor-Android-TV-Release/releases)
 
-[下载](https://github.com/envyafish/Harbor-Android-TV-Release/releases/latest) · [桌面端 Harbor](https://github.com/envyafish/Harbor) · [反馈 Bug](https://github.com/envyafish/Harbor-Android-TV-Release/issues) · [购买](https://pay.ldxp.cn/shop/767OK1ZS) · [TG 交流群](https://t.me/HarborRelease)
+[下载](https://github.com/envyafish/Harbor-Android-TV-Release/releases/latest) · [桌面端 Harbor](https://github.com/envyafish/Harbor) · [反馈 Bug](https://github.com/envyafish/Harbor-Android-TV-Release/issues) · [购买](https://wzyp.cn/shop/767OK1ZS) · [TG 交流群](https://t.me/HarborRelease)
 
 </div>
 
@@ -27,7 +27,7 @@ Harbor 有两个产品：
 
 ## 购买
 
-可通过 [店铺](https://pay.ldxp.cn/shop/767OK1ZS) 购买 Harbor Pro。同一许可证可用于桌面端与 Harbor TV。
+可通过 [店铺](https://wzyp.cn/shop/767OK1ZS) 购买 Harbor Pro。同一许可证可用于桌面端与 Harbor TV。
 
 ---
 
